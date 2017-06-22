@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9a25fe12c62c09f365e06f0aa4c348f9e2691f18.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\libs\SenterOpenApi_1.2.3.68_Common.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44e2571a73fd80eb49cbe2e00d0f27f160a0f468">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\SenterOpenApi_1.2.3.68_Common_22cca9fdd19b3b6df3781b099f6911f57456bd47.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ef0f2b298eaa8e4f635d1d645e7fba820d9369c6.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9733e70f71a0fd33c4cefb8a6bda7acd1784a6b9">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\instant-run_60a2798b8b29f08322d1d5e00ba681c3bc9abfd3.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\libs\SenterOpenApi_1.2.3.68_IoT.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d173efe5a5c9d98ff9eda42997dade1b6d28b717">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\SenterOpenApi_1.2.3.68_IoT_cc0fcd2625c999bff2b6de07564cc47f889696c3.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_c3f4aeceaea6df8cc846a617ec51dda921976e74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\15.0\ed727a8d9f247e2050281cb083f1c77b09dcb5cd\guava-15.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\guava-15.0_fd3104f663d87bb88049f1df224d367132128f7c.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0aafe7e638a261731bc278b7065d290321a9ef67.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_b7d9cedc29be4285abc61cbc93dacc2cf07b1c85.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_d3e147ce1436d73aa20da64a0edd042ba31b87bd.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\libs\jdom.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1d04c0f321ea337f3661cf7ede8f4c6f653a8fdd">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\jdom_a1ae8bb178493442bcc3e076830aa5ac74a9e5b1.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e0b87f6a2578ede2303e1bc9d2d95c9b5f2c3875.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_f6c21bfcdc01e78d495bf5f9ed0a39bb016a13fe.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7eb81b370ef4aa301bace39198f3200797508873.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_1604af81c64189341f75e2e84ca1a07100421383.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="67f8983c0d6f5562a3e61af16aeb8f0a5ef82b32">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_18ff6117badc9fc6fe1d17c27be74009e76264d7.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_b3ef08bc47e65ebe796ab40d1f37084ab3623f19.jar" />
+    </item>
+    <item
+        jar="D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\alive\DemoUhf\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_32d9cadd414cafaa5c16a10e13f3f65e93170eb2.jar" />
+    </item>
+
+</items>

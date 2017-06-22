@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lock.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_lock.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_find.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_find.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_read.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_read.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wirte.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_wirte.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit_bg.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\btn_exit_bg.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_kill.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_kill.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_erase.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_erase.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_config.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_config.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rfidicon2.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\rfidicon2.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_unlock.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\icon_unlock.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame_bg.png",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\frame_bg.png"
+    },
+    {
+        "merged": "D:\\alive\\DemoUhf\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\inventorys_border.xml",
+        "source": "D:\\alive\\DemoUhf\\app\\src\\main\\res\\drawable\\inventorys_border.xml"
+    }
+]

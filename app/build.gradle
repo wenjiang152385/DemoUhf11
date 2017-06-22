@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.senter.demo.uhf"
+        minSdkVersion 14
+        targetSdkVersion 24
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:24.2.0'
+    compile 'com.google.guava:guava:15.0'
+    compile files('libs/jdom.jar')
+    compile files('libs/SenterOpenApi_1.2.3.68_Common.jar')
+    compile files('libs/SenterOpenApi_1.2.3.68_IoT.jar')
+}

@@ -1,0 +1,705 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:2:1-413:12
+	package
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RAISED_THREAD_PRIORITY
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:16:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:18:5-73
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:18:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:20:22-78
+application
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:22:5-411:19
+MERGED from [com.android.support:support-v4:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:26:9-68
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:23:9-28
+activity#com.senter.demo.uhf.Activity0ModuleSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:32:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:38:27-74
+activity#com.senter.demo.uhf.modelA.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:47:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:46:13-36
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:45:13-81
+activity#com.senter.demo.uhf.modelA.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:50:9-55:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:52:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:54:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:51:13-73
+activity#com.senter.demo.uhf.modelA.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:58:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:57:13-68
+activity#com.senter.demo.uhf.modelA.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:62:9-67:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:64:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:66:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:63:13-69
+activity#com.senter.demo.uhf.modelA.Activity3Erase
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:68:9-73:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:70:13-46
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:72:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:69:13-69
+activity#com.senter.demo.uhf.modelA.Activity4Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:74:9-79:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:77:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:76:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:78:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:75:13-68
+activity#com.senter.demo.uhf.modelA.Activity5Unlock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:80:9-85:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:83:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:82:13-63
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:84:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:81:13-70
+activity#com.senter.demo.uhf.modelA.Activity6Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:86:9-91:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:88:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:90:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:87:13-68
+activity#com.senter.demo.uhf.modelA.Activity7Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:92:9-97:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:95:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:94:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:96:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:93:13-72
+activity#com.senter.demo.uhf.modelB.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:102:9-107:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:104:13-36
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:106:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:103:13-81
+activity#com.senter.demo.uhf.modelB.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:108:9-113:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:111:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:110:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:112:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:109:13-73
+activity#com.senter.demo.uhf.modelB.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:114:9-119:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:116:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:118:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:115:13-68
+activity#com.senter.demo.uhf.modelB.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:120:9-125:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:123:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:122:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:124:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:121:13-69
+activity#com.senter.demo.uhf.modelB.Activity3Erase
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:126:9-131:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:128:13-46
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:130:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:127:13-69
+activity#com.senter.demo.uhf.modelB.Activity4Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:132:9-137:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:135:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:134:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:136:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:133:13-68
+activity#com.senter.demo.uhf.modelB.Activity5Unlock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:138:9-143:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:140:13-63
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:142:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:139:13-70
+activity#com.senter.demo.uhf.modelB.Activity6Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:144:9-149:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:146:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:148:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:145:13-68
+activity#com.senter.demo.uhf.modelB.Activity7Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:150:9-155:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:152:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:154:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:151:13-72
+activity#com.senter.demo.uhf.modelC.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:160:9-165:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:163:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:162:13-36
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:164:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:161:13-81
+activity#com.senter.demo.uhf.modelC.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:166:9-171:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:169:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:168:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:170:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:167:13-73
+activity#com.senter.demo.uhf.modelC.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:172:9-177:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:174:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:176:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:173:13-68
+activity#com.senter.demo.uhf.modelC.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:178:9-183:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:181:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:180:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:182:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:179:13-69
+activity#com.senter.demo.uhf.modelC.Activity3Erase
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:184:9-189:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:187:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:186:13-46
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:188:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:185:13-69
+activity#com.senter.demo.uhf.modelC.Activity4Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:190:9-195:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:192:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:194:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:191:13-68
+activity#com.senter.demo.uhf.modelC.Activity5Unlock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:196:9-201:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:199:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:198:13-63
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:200:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:197:13-70
+activity#com.senter.demo.uhf.modelC.Activity6Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:202:9-207:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:205:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:204:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:206:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:203:13-68
+activity#com.senter.demo.uhf.modelC.Activity7Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:208:9-213:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:211:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:210:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:212:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:209:13-72
+activity#com.senter.demo.uhf.modelD2.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:218:9-223:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:221:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:220:13-37
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:222:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:219:13-82
+activity#com.senter.demo.uhf.modelD2.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:224:9-229:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:227:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:226:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:228:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:225:13-74
+activity#com.senter.demo.uhf.modelD2.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:230:9-235:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:233:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:232:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:234:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:231:13-69
+activity#com.senter.demo.uhf.modelD2.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:236:9-241:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:239:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:238:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:240:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:237:13-70
+activity#com.senter.demo.uhf.modelD2.Activity3Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:242:9-247:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:245:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:244:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:246:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:243:13-69
+activity#com.senter.demo.uhf.modelD2.Activity4Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:248:9-253:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:250:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:252:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:249:13-69
+activity#com.senter.demo.uhf.modelD2.Activity5Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:254:9-259:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:257:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:256:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:258:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:255:13-73
+activity#com.senter.demo.uhf.modelD2.iso18k6b.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:262:9-267:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:265:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:264:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:266:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:263:13-83
+activity#com.senter.demo.uhf.modelD2.iso18k6b.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:268:9-273:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:271:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:270:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:272:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:269:13-78
+activity#com.senter.demo.uhf.modelD2.iso18k6b.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:274:9-279:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:277:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:276:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:278:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:275:13-79
+activity#com.senter.demo.uhf.modelD2.iso18k6b.Activity3Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:280:9-285:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:283:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:282:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:284:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:281:13-78
+activity#com.senter.demo.uhf.modelD2.iso18k6b.Activity4QueryLock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:286:9-291:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:289:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:288:13-50
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:290:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:287:13-83
+activity#com.senter.demo.uhf.modelE.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:295:9-300:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:298:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:297:13-36
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:299:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:296:13-81
+activity#com.senter.demo.uhf.modelE.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:301:9-306:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:304:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:303:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:305:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:302:13-73
+activity#com.senter.demo.uhf.modelE.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:307:9-312:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:310:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:309:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:311:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:308:13-68
+activity#com.senter.demo.uhf.modelE.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:313:9-318:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:316:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:315:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:317:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:314:13-69
+activity#com.senter.demo.uhf.modelE.Activity3Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:319:9-324:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:322:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:321:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:323:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:320:13-68
+activity#com.senter.demo.uhf.modelE.Activity4Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:325:9-330:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:328:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:327:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:329:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:326:13-68
+activity#com.senter.demo.uhf.modelE.Activity5Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:331:9-336:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:334:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:333:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:335:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:332:13-72
+activity#com.senter.demo.uhf.modelF.Activity_FunctionSelection
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:341:9-346:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:344:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:343:13-36
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:345:13-74
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:342:13-81
+activity#com.senter.demo.uhf.modelF.Activity0Inventory
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:347:9-352:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:350:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:349:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:351:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:348:13-73
+activity#com.senter.demo.uhf.modelF.Activity1Read
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:353:9-358:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:356:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:355:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:357:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:354:13-68
+activity#com.senter.demo.uhf.modelF.Activity2Write
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:359:9-364:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:362:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:361:13-58
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:363:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:360:13-69
+activity#com.senter.demo.uhf.modelF.Activity3Erase
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:365:9-370:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:368:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:367:13-46
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:369:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:366:13-69
+activity#com.senter.demo.uhf.modelF.Activity4Lock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:371:9-376:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:374:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:373:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:375:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:372:13-68
+activity#com.senter.demo.uhf.modelF.Activity5Unlock
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:377:9-382:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:380:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:379:13-63
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:381:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:378:13-70
+activity#com.senter.demo.uhf.modelF.Activity6Kill
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:383:9-388:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:386:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:385:13-57
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:387:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:384:13-68
+activity#com.senter.demo.uhf.modelF.Activity7Settings
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:389:9-394:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:392:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:391:13-62
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:393:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:390:13-72
+activity#com.senter.demo.uhf.record.ActivityRecordsList
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:399:9-404:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:402:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:401:13-47
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:403:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:400:13-55
+activity#com.senter.demo.uhf.record.ActivityRecordDisplayer
+ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:405:9-410:20
+	android:screenOrientation
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:408:13-49
+	android:label
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:407:13-48
+	android:theme
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:409:13-60
+	android:name
+		ADDED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml:406:13-59
+uses-sdk
+INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.0] D:\alive\DemoUhf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
+		INJECTED from D:\alive\DemoUhf\app\src\main\AndroidManifest.xml
